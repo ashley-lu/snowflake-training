@@ -11,3 +11,5 @@ conn = sf.connect(
         database='ECONOMY_DATA_ATLAS',
         schema='ECONOMY',
         warehouse='COMPUTE_WH')
+
+# test
